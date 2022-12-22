@@ -588,10 +588,21 @@ hr{
     }
     .Acce-item{
         width: 325px;
+        margin: 7px;
     }
     .shop-body {
         padding: 14px;
         font-size: 14px;
+    }
+    .count p {
+        font-size: 22px;
+    }
+    .lap-img img{
+        display: none;
+    }
+    .time li{
+        width: 90px;
+        height: 90px;
     }
     .footer{
         display: block;
